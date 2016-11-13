@@ -39,6 +39,10 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-3.png">
 </p> 
 
+ผลลัพธ์
+
+![](https://github.com/fernkamon/LAB-12/blob/master/imgs/3.JPG)
+
 ### การพลิกและหมุนภาพ
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-4.png">
