@@ -66,4 +66,4 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 
 **[ตัวอย่างงานวาดภาพ Doraemon ของรุ่นพี่](https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/Doraemon.md)**
 
-![](https://github.com/fernkamon/LAB-12/blob/master/imgs/Capture.JPG)
+![](https://github.com/fernkamon/LAB-12/blob/master/imgs/doraemon.JPG)
